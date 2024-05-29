@@ -1,0 +1,13 @@
+{
+  "name": "github-copilot-exercise",
+  "version": "1.0.0",
+  "description": "Exercice de formation pour l'utilisation de GitHub Copilot en JavaScript",
+  "main": "src/calculateStatistics.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
